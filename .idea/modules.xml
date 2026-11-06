@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTTUAN5/BTTUAN5.iml" filepath="$PROJECT_DIR$/BTTUAN5/BTTUAN5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTTUAN6/BTTUAN6.iml" filepath="$PROJECT_DIR$/BTTUAN6/BTTUAN6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Quanlithuvien.iml" filepath="$PROJECT_DIR$/.idea/Quanlithuvien.iml" />
+    </modules>
+  </component>
+</project>
